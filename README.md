@@ -2,7 +2,8 @@
 A mobile application targeted for both iOS and Android environment.
 Using React Native framework.
 
-![Simulator Screen Shot - iPhone 13 - 2021-11-02 at 11 05 26](https://user-images.githubusercontent.com/66354769/140287391-b856c974-6b29-4c60-b387-8fdf1be43e22.png)
+![Simulator Screen Shot - iPhone 13 - 2021-11-02 at 15 47 21](https://user-images.githubusercontent.com/66354769/140287757-11890c35-6daf-4cf9-aad3-29041311f5a4.png)
+
 
 
 #This project includes:
