@@ -1,8 +1,8 @@
 # Movie-Mobile-Application
 A mobile application targeted for both iOS and Android environment.
 Using React Native framework.
-![Simulator Screen Shot - iPhone 13 - 2021-11-02 at 11 05 26](https://user-images.githubusercontent.com/66354769/140287036-4baf3751-a9d8-4405-800c-6b7dab61c68e.png)
 
+![Simulator Screen Shot - iPhone 13 - 2021-11-02 at 11 05 26](https://user-images.githubusercontent.com/66354769/140287391-b856c974-6b29-4c60-b387-8fdf1be43e22.png)
 
 
 #This project includes:
