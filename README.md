@@ -1,11 +1,11 @@
-# Movie-Mobile-Application
+# Movie Mobile Application
 A mobile application targeted for both iOS and Android environment.
 Using React Native framework.
 
 ![Simulator Screen Shot - iPhone 13 - 2021-11-02 at 15 47 21](https://user-images.githubusercontent.com/66354769/140287757-11890c35-6daf-4cf9-aad3-29041311f5a4.png)
 
 
-#This project includes:
+# This project includes:
 - Navigate between screens
 - Navigate to screens dynamically
 - Use of 'The Movie Database (TMDB)' API
